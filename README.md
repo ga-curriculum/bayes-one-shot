@@ -12,9 +12,9 @@
 
 ## Lesson Outline
 
-I. Review: The "AND" probability law and Bayes' Theorem
-II. Bayesian Statistics
-III. Bayesian problems via PyMC  
+- I. Review: The "AND" probability law and Bayes' Theorem
+- II. Bayesian Statistics
+- III. Bayesian problems via PyMC  
 
 ---
 
